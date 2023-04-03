@@ -13,3 +13,7 @@ func sum(numbers []int) int {
 
 	return result
 }
+
+func add(a, b int) int {
+	return a + b
+}
